@@ -1,3 +1,3 @@
  Steps to run - 
 
- node test.js
+ node task1.js

@@ -1,0 +1,51 @@
+Why do you like to join as a Software developer?
+
+    I want to join as a software developer because it offers the chance to connect and collaborate with others, allowing me to apply my technical skills to solve real-world problems.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+List top 3 softwares / tools that inspire you. Why do these tools inspire you?
+
+    Git/GitHub:
+        Why: Git/GitHub inspires me with its effective version control, allowing smooth collaboration and organization in development projects.
+    
+    AWS:
+        Why: AWS inspires me for its simplicity and versatility, allowing me to automate tasks like scaling, load balancing, and storage efficiently.
+    
+    Postman:
+        Why: Postman inspires me with its user-friendly yet powerful interface, serving as a super-powerful tool for API testing and development.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+List top 3 organisations you like to join in your career & why you like these organisations.
+
+    Zennode:
+        Why: I want to join Zennode for its collaborative work culture and innovative projects led by inspiring leaders like CEO Sajeer T K, aligning with my goal. 
+            The diverse range of projects, including a Clinic Management Solution, reflects Zennode's commitment to innovation , Creativity and Quality for solving real-world challenge just like me.
+    Google:
+        Why: Google's commitment to push technological boundaries and its inclusive work environment inspires me to myself to a higher level daily.
+
+    Amazon:
+        Why: Amazon's scale, emphasis on customer-centric solutions, and diverse range of projects inspires me. 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+How you position yourself in this industry after 2 years.
+    In 2 years, I aim to be a skilled software developer known for my contributions to projects and continuous learning, seeking to grow and make a positive impact in the industry.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+List 3 projects / products you have built or have planned to build in the upcoming year, also explain your role in the same.
+    Gmailify:
+        Description: I am planning to develop a project aimed at simplifying work management directly within Gmail.
+
+    Movie Recommendation System using LLM:
+
+        Description: I built this project for Amazon's hackathon, securing a place in the finals top 50 among 50,000 participants. 
+                      My solution utilizes Large Language Model (LLM) to gain a deeper understanding of movie context, generating recommendations based on the storyline. 
+                      My role included the entire project lifecycle, from concept to execution.
+
+
+    Collaborative Code Editor:
+
+        Description: I developed a Collaborative Code Editor that allows multiple users to collaborate, compile, edit, and run code in real-time. 
+                      Using Conflict-free Replicated Data Types (CRDTs), I ensured effective management of collaborative editing processes.
+                      My role included the entire project lifecycle, from concept to execution.
